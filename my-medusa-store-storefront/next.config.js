@@ -7,6 +7,10 @@ checkEnvVariables()
  */
 const nextConfig = {
   reactStrictMode: true,
+  i18n: {
+    locales: ["ko", "en"],
+    defaultLocale: "ko",
+  },
   logging: {
     fetches: {
       fullUrl: true,

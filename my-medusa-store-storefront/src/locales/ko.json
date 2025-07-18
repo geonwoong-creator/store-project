@@ -1,0 +1,9 @@
+{
+  "hero.title": "전자상거래 스타터 템플릿",
+  "hero.subtitle": "Medusa와 Next.js 기반",
+  "hero.github": "GitHub에서 보기",
+  "country.shippingTo": "배송 국가:",
+  "notFound.title": "페이지를 찾을 수 없습니다",
+  "notFound.description": "요청하신 페이지가 존재하지 않습니다.",
+  "notFound.frontpage": "메인 페이지로 가기"
+}

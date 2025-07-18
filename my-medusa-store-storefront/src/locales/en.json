@@ -1,0 +1,9 @@
+{
+  "hero.title": "Ecommerce Starter Template",
+  "hero.subtitle": "Powered by Medusa and Next.js",
+  "hero.github": "View on GitHub",
+  "country.shippingTo": "Shipping to:",
+  "notFound.title": "Page not found",
+  "notFound.description": "The page you tried to access does not exist.",
+  "notFound.frontpage": "Go to frontpage"
+}
